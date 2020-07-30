@@ -1,17 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on the Fulfillment Service you can see that in [Abernathy](http://github.com/360incentives/abernathy)
-<!--
-**MendeNajdov/MendeNajdov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on the Fulfillment Service you can see that in [here](http://github.com/360incentives/abernathy)
+- 🌱 I’m currently learning about event-sourcing systems like eventide and gearshaft
+- 💬 Ask me about [360ui](http://github.com/360incentives/360ui)
+- 📫 How to reach me: MS Teams :)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I have a 3D Printer and if anyone can fix I'd appreciate the help.
