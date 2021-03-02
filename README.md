@@ -6,6 +6,7 @@ I'm a full-stack developer with a passion for the frontend and accessibility.
 - [360ui](http://github.com/360incentives/360ui)
 - [Abernathy](http://github.com/360incentives/abernathy)
 - General questions about frontend development, CSS, js, node, react, etc.
+- accessibility practices and frontend considerations.
 
 ## 📫 Where can you reach me?
 
